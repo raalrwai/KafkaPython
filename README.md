@@ -6,7 +6,7 @@
 # Make sure Docker Desktop is running.
 
 # 2. Clone the repository
-git clone https://github.com/YOUR_USERNAME/kafka-python-tutorial.git
+git clone https://github.com/raalrwai/KafkaPython.git
 cd kafka-python-tutorial
 
 # 3. Create a Python 3.10 virtual environment
