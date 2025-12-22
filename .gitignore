@@ -1,0 +1,31 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+ENV/
+env310/
+
+# Logs
+*.log
+
+# Docker Compose overrides (optional local configs)
+docker-compose.override.yml
+
+# Jupyter Notebook checkpoints (if any)
+.ipynb_checkpoints/
+
+# IDE / Editor files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Pytest cache
+.pytest_cache/
