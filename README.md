@@ -14,7 +14,6 @@ python -m venv env
 
 # 4. Activate the virtual environment
 .\env\Scripts\Activate.ps1
-# (If using cmd.exe, use: .\env310\Scripts\activate.bat)
 
 # 5. Upgrade pip
 python -m pip install --upgrade pip
