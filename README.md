@@ -9,11 +9,11 @@
 git clone https://github.com/raalrwai/KafkaPython.git
 cd kafka-python-tutorial
 
-# 3. Create a Python 3.10 virtual environment
-python -m venv env310
+# 3. Create a Python  virtual environment
+python -m venv env
 
 # 4. Activate the virtual environment
-.\env310\Scripts\Activate.ps1
+.\env\Scripts\Activate.ps1
 # (If using cmd.exe, use: .\env310\Scripts\activate.bat)
 
 # 5. Upgrade pip
